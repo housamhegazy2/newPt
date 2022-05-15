@@ -2,5 +2,4 @@
 
 new project
 read me
-hskakskakskaskakskakska
-"housam ali added some modify" 
+this is note from forked
